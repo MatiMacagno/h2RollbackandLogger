@@ -1,0 +1,1 @@
+INFO    2023-02-28 15:57:00,536 [main] Test  - java.lang.ArithmeticException: / by zero
